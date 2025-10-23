@@ -200,6 +200,12 @@ Permite unir ramas
 
 ![img](./images/git-merge-2.png)
 
+* Nota: para tener en cuenta cuando trabajemos en equipo tener encuenta a que archivos tenemos acceso y no tener conflictos.
+
+![img](./images/git-conflict.png)
+
+![img](./images/git-conflict.png)
+
 ## `git remote -v`
 
 Comando para ver los repositorios remotos que tenemos creados.
