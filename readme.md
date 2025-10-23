@@ -112,7 +112,7 @@ He empezado a editar los dos archivps y vemos que nos dice que aunque no son arc
 
 ![img](./images/git-checkout.png)
 
-Comando para volver a dejar el archivo como se guardo desde el commit.
+Comando para movernos entre ramas.
 
 ## `git log --graph`
 Comando para ver los commit creados pero de una manera mejor, en ramas.
@@ -161,6 +161,12 @@ Alternativa más clara para cambiar de rama, más intuitivo que checkout para ra
 Permite subir el proyecto a un repositorio que se encuentra vacío en GitHub.
 
 ![img](./images/git-remote-command.png)
+
+## `git diff`
+
+Comando para ver los cambios que hemos hechos en los archivos. Nos muestra queantes teniamos algo y ahora tenemos algo diferente.
+
+![img](./images/git-diff-command.png)
 
 ## `git remote -v`
 
