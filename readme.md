@@ -150,12 +150,6 @@ Copia un repositorio remoto a tu máquina local para trabajar y unirte a un proy
 
 ![img](./images/git-clone-command.png)
 
-## `git switch nueva-rama`
-
-Alternativa más clara para cambiar de rama, más intuitivo que checkout para ramas.
-
-![img](./images/git-switch-command.png)
-
 ## `git remote add origin`
 
 Permite subir el proyecto a un repositorio que se encuentra vacío en GitHub.
@@ -187,6 +181,16 @@ Permite ver un historial de commit creados
 Se utiliza para identificar una versión del proyecto que se ha liberado, para saber que he tenido en encuenta para la cracion de la version.
 
 ![img](./images/git-tag-command.png)
+
+## `git brach nombre-rama`
+
+Permite crear nuevas ramas
+
+![img](./images/git-brach-login.png)
+
+## `git switch nueva-rama`
+
+Permite ingresar a esta nueva rama y cambiar en la que estabamos.
 
 ## `git remote -v`
 
