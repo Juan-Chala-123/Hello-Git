@@ -210,6 +210,10 @@ Permite unir ramas
 
 ![img](./images/git-stash-command.png)
 
+![img](./images/git-stash-pop-command.png)
+
+El comando de la segun da imagen, nos muestra que ha encontrado un archivo guardado temporalmente esta en desarrollo.
+
 ## `git remote -v`
 
 Comando para ver los repositorios remotos que tenemos creados.
