@@ -206,6 +206,10 @@ Permite unir ramas
 
 ![img](./images/git-conflict.png)
 
+## `git stash`
+
+![img](./images/git-stash-command.png)
+
 ## `git remote -v`
 
 Comando para ver los repositorios remotos que tenemos creados.
