@@ -168,6 +168,26 @@ Comando para ver los cambios que hemos hechos en los archivos. Nos muestra quean
 
 ![img](./images/git-diff-command.png)
 
+## `git reset --hard [identificador del commit]`
+
+Permite volver a una rama en especifico.
+
+![img](./images/git-reset-hard.png)
+
+![img](./images/git-log-2.png)
+
+## `git reflog`
+
+Permite ver un historial de commit creados
+
+![img](./images/git-reflog-command.png)
+
+## `git tag`
+
+Se utiliza para identificar una versión del proyecto que se ha liberado, para saber que he tenido en encuenta para la cracion de la version.
+
+![img](./images/git-tag-command.png)
+
 ## `git remote -v`
 
 Comando para ver los repositorios remotos que tenemos creados.
