@@ -192,6 +192,14 @@ Permite crear nuevas ramas
 
 Permite ingresar a esta nueva rama y cambiar en la que estabamos.
 
+## `git merge`
+
+Permite unir ramas
+
+![img](./images/git-merge-command.png)
+
+![img](./images/git-merge-2.png)
+
 ## `git remote -v`
 
 Comando para ver los repositorios remotos que tenemos creados.
