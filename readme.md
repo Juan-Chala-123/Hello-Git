@@ -256,3 +256,12 @@ Alli estamos creamos un reposirotio en nuestra cuenta de github, de un proyecto 
 
 ![img](./images/flujo-colaborativo.png)
 
+### Pull Request
+
+Añadir mi nombre en el archivo de hello.md del curso de Git y Github de MoureDev.
+
+![img](./images/pull-request.png)
+
+![img](./images/pull-request-1.png)
+
+![img](./images/pull-request-2.png)
