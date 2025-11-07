@@ -224,3 +224,8 @@ Hemos implementado una espcie de merge y nos hemos traido los cambios del reposi
 
 ![img](./images/git-merge-fetch.png)
 
+## `git clone`
+
+![img](./images/git-clone-1.png)
+
+![img](./images/git-clone-2.png)
