@@ -265,7 +265,3 @@ Añadir mi nombre en el archivo de hello.md del curso de Git y Github de MoureDe
 ![img](./images/pull-request-1.png)
 
 ![img](./images/pull-request-2.png)
-
-## `git flow`
-
-![img](./images/git-flow-1.png)
