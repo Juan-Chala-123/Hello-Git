@@ -12,8 +12,6 @@ Esto nos crea un archivo `.gitconfig` dentro de la ruta del nombre de usuario de
 
 ![img](./images/git-config-1.png)
 
-![img](./images/git-config-2.png)
-
 ## `git config --global user.email "..."`
 
 ![img](./images/git-config-global-2.png)
@@ -23,8 +21,6 @@ Comando para configurar de manera global el correo.
 ![img](./images/git-config-3.png)
 
 ## `New-Item (touch)`
-
-![img](./images/touch-command.png)
 
 Comando para crear un archivo dentro de la carpeta
 
@@ -75,16 +71,6 @@ Al realizar un `git status` vemos que ya no nos dice que tenemos que crear el co
 
 Comando para verificar si realmente el commit sea creado. Alli vemos un identificador unico para el commit, vemos el autor (usuario) y el correo, y esto nos dice que el autor (JuanP) ha creado un commit.
 
-Hemos creado un segundo archivo dentro de la carpeta y volvimos a realizar los mismos pasos anteriores, para preparar el archivo y posteriormente subirlo al repositorio.
-
-![img](./images/git-commit-2.png)
-
-He empezado a editar los dos archivps y vemos que nos dice que aunque no son arcivos nuevos, si nos dice que hemos hecho modificaciones en los archivos
-
-![img](./images/editando.png)
-
-![img](./images/editando-2.png)
-
 ## `git checkout [nombre archivo]`
 
 ![img](./images/git-ckeckout-command.png)
@@ -123,6 +109,8 @@ Copia un repositorio remoto a tu máquina local para trabajar y unirte a un proy
 
 ![img](./images/git-clone-command.png)
 
+![img](./images/git-clone-command-1.png)
+
 ## `git diff`
 
 Comando para ver los cambios que hemos hechos en los archivos. Nos muestra queantes teniamos algo y ahora tenemos algo diferente.
@@ -149,12 +137,6 @@ Se utiliza para identificar una versión del proyecto que se ha liberado, para s
 
 ![img](./images/git-tag-command.png)
 
-## `git brach nombre-rama`
-
-Permite crear nuevas ramas
-
-![img](./images/git-brach-login.png)
-
 ## `git switch nueva-rama`
 
 Permite cambiar a una rama del proyecto.
@@ -168,10 +150,6 @@ Permite unir ramas
 ![img](./images/git-merge-2.png)
 
 * Nota: para tener en cuenta cuando trabajemos en equipo tener encuenta a que archivos tenemos acceso y no tener conflictos.
-
-![img](./images/git-conflict.png)
-
-![img](./images/git-conflict.png)
 
 ## `git stash`
 
