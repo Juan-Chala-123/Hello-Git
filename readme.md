@@ -229,3 +229,30 @@ Hemos implementado una espcie de merge y nos hemos traido los cambios del reposi
 ![img](./images/git-clone-1.png)
 
 ![img](./images/git-clone-2.png)
+
+## `git push`
+
+![img](./images/git-push-1.png)
+
+En esta imagen como vemos los archivos de imagenes y readme, muestran el ultimo commit que hicismos antes de ehecutar `git push` para saubir nuestros cambios al repsoitorio. 
+
+![img](./images/git-push-2.png)
+
+Y en esta imagen se ve la modificacion al archivo de hellogit2.py, junto con su commit anterior.
+
+![img](./images/git-push-3.png)
+
+## `GitHub Fork`
+
+Esta herramienta, permite crear un repositorio en nuestra cuenta de github, para momentos donde no temeos permisos para realizar `git push`.
+
+![img](./images/git-fork-1.png)
+
+Alli estamos creamos un reposirotio en nuestra cuenta de github, de un proyecto de nua persona x.
+
+![img](./images/git-fork-2.png)
+
+## Flujo Colaborativo
+
+![img](./images/flujo-colaborativo.png)
+
