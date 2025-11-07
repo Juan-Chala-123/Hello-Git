@@ -216,3 +216,11 @@ Descarga cambios del remoto y los fusiona, para mantener tu copia local actualiz
 ## Modificaciones a los archivos locales
 
 ![img](./images/modificaciones.png)
+
+![img](./images/hellogit2.png)
+
+
+Hemos implementado una espcie de merge y nos hemos traido los cambios del repositorio de GitHub.
+
+![img](./images/git-merge-fetch.png)
+
