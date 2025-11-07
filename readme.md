@@ -1,43 +1,6 @@
 <center><h1>Comandos Git</h1></center>
 
-# Comandos:
-## `ls`
-
-![img](./images/ls-command.png)
-
-Verl contenido dentro de la ubicacion de la carpeta.
-
-## `cd`
-
-![img](./images/cd-command.png)
-
-Entrar a una carpeta dentro de la ubicacion dode nos encontremos.
-
-## `cd ..`
-
-![img](./images/cd%20..-command.png)
-
-Comadno para salir una carpeta antes de donde nos encontramos.
-
-## `pwd`
-
-![img](./images/pwd-command.png)
-
-Comando para saber en que carpeta nos encontramos.
-
-## `mkdir`
-
-![img](./images/mkdir-command.png)
-
-Comando para crear una carpeta donde nos encontremos.
-![img](./images/ubication-mkdir.png)
-
-## `code .`
-
-![img](./images/code-command.png)
-
-Comando para abrir la carpeta en Visual Studio Code.
-![img](./images/vsc.png)
+## Comandos:
 
 ## `git config --global user.name "...`
 
@@ -194,7 +157,7 @@ Permite crear nuevas ramas
 
 ## `git switch nueva-rama`
 
-Permite ingresar a esta nueva rama y cambiar en la que estabamos.
+Permite cambiar a una rama del proyecto.
 
 ## `git merge`
 
@@ -233,3 +196,15 @@ Permite subir el proyecto a un repositorio que se encuentra vacío en GitHub.
 ## `git pull origin main`
 
 Descarga cambios del remoto y los fusiona, para mantener tu copia local actualizada antes de empezar a trabajar.
+
+# Personalizar el GitHub Personal
+
+![img](./images/github-personalizar.png)
+
+![img](./images/github-personalizar-1.png)
+
+![img](./images/github-personalizar-2.png)
+
+## Subir el repositorio
+
+![img](./images/subir-archivos.png)
