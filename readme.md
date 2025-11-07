@@ -207,4 +207,6 @@ Descarga cambios del remoto y los fusiona, para mantener tu copia local actualiz
 
 ## Subir el repositorio
 
+![img](./images/primeros-archivos-subidos.png)
+
 ![img](./images/subir-archivos.png)
