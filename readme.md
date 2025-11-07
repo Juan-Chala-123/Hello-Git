@@ -210,3 +210,9 @@ Descarga cambios del remoto y los fusiona, para mantener tu copia local actualiz
 ![img](./images/primeros-archivos-subidos.png)
 
 ![img](./images/subir-archivos.png)
+
+![img](./images/git-push-origin-main.png)
+
+## Modificaciones a los archivos locales
+
+![img](./images/modificaciones.png)
